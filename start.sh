@@ -8,5 +8,5 @@ else
 fi
 cd /adgsearch
 pip3 install -U -r requirements.txt
-echo "Starting thomas shelby....🔥"
+echo "Starting ADG Search....🔥"
 python3 bot.py
