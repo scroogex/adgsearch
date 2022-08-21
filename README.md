@@ -1,13 +1,13 @@
 # ADG Search
 Very Simple Bot Auto Filter bot
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bot+Name+»+Thomas+Shelby+Bot!;created+by+NL_BOTZ+Team!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bot+Name+»+ADG+Search+Bot!;created+by+ADG+Team!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
 
 <p align="center">
-  <img src="images (1).jpeg" alt="Thomas Shelby">
+  <img src="images (1).jpeg" alt="ADG">
 </p>
 <h1 align="center">
-  <b>Thomas Shelby Bot</b>
+  <b>ADG Search Bot</b>
 </h1>
 
 ᴀᴜᴛᴏғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴀᴅᴠᴀɴᴄᴇᴅ ғᴇᴀᴛᴜʀᴇs
@@ -15,7 +15,7 @@ Very Simple Bot Auto Filter bot
 #### Deploy on Heroku
 **BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO**<br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nihaal-TG/Thomas-Shelby)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/scroogex/adgsearch)</br>
 
 #### Deploy in your VPS
 ````bash
@@ -28,7 +28,7 @@ python3 main.py
 
 <h3 align="center">𝗖𝗢𝗡𝗧𝗔𝗖𝗧<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
-<a href="https://t.me/NL_BOTxCHAT"><img alt="Telegram" src="https://img.shields.io/badge/𝖣ᴇᴠᴇʟᴏᴘᴇʀ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/scrooge010"><img alt="Telegram" src="https://img.shields.io/badge/𝖣ᴇᴠᴇʟᴏᴘᴇʀ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
@@ -67,8 +67,4 @@ Commands
 
 And More
 
-#### Thanks
-
-• To [DKBOTx](https://t.me/DKBOTxCHATS)
-
-• And Adhi Bro For His Pever Base Repo
+😉☺️Thanks
