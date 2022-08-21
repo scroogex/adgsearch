@@ -1,4 +1,4 @@
-# Tʜᴏᴍᴀs Sʜᴇʟʙʏ
+# ADG Search
 Very Simple Bot Auto Filter bot
 ##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bot+Name+»+Thomas+Shelby+Bot!;created+by+NL_BOTZ+Team!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
