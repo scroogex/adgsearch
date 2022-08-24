@@ -4,7 +4,7 @@ Very Simple Bot Auto Filter bot
 </p>
 
 <p align="center">
-  <img src="images (1).jpeg" alt="ADG">
+  <img src="" alt="">
 </p>
 <h1 align="center">
   <b>ADG Search Bot</b>
